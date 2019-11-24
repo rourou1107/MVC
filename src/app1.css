@@ -1,0 +1,9 @@
+#app1 {
+    /*border: 1px solid red;*/
+}
+#app1 p {
+    margin-bottom: 20px;
+}
+#app1 button {
+    padding: 5px 10px;
+}

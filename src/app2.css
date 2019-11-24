@@ -1,0 +1,17 @@
+#app2 .tab {
+    display: flex;
+    border: 1px solid black;
+}
+#app2 .tab > li {
+    width: 50%;
+}
+#app2 .tab > li.active {
+    background: blue;
+    color: #ffffff
+}
+#app2 .tabContent > li {
+    display: none;
+}
+#app2 .tabContent > li.active {
+    display: block;
+}
